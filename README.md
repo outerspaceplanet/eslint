@@ -1,3 +1,17 @@
+# eslint plugins
+
+- eslint-config-prettier  
+  eslint と prettier の競合を回避する
+
+- eslint-plugin-import/eslint-plugin-simple-import-sort  
+  import の自動反映・ソート
+
+- eslint-plugin-sort-keys-custom-order  
+  ソート順をカスタム指定
+
+- eslint-plugin-unused-imports  
+  使用していない import を自動的に削除
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
